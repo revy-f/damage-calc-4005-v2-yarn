@@ -9,6 +9,9 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^4.0.1"
+    "add": "^2.0.6",
+    "mocha": "^4.0.1",
+    "mocha-junit-reporter": "1.13.0",
+    "yarn": "^1.22.4"
   }
 }
